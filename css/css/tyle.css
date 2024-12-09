@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+body{
+    background-color:gray;
+    border: 0ch;
+    font-family: 'Times New Roman', Times, serif;
+} 
+p{
+    color: #FF9900;
+}
+.co{
+    color: aquamarine;
+}
+.oc{
+    color: red;
+}
